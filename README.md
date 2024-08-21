@@ -1,2 +1,2 @@
-# ADuckB
-Android DuckTV Bridge - Control your TV like A Duck Bridge between your terminal and your TV's.
+# ADB
+For simple yet powerful control of your Android TV's from the terminal.
